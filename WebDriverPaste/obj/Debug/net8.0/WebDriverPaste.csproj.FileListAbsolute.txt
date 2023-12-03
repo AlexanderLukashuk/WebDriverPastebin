@@ -1,0 +1,15 @@
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/bin/Debug/net8.0/WebDriverPaste
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/bin/Debug/net8.0/WebDriverPaste.deps.json
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/bin/Debug/net8.0/WebDriverPaste.runtimeconfig.json
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/bin/Debug/net8.0/WebDriverPaste.dll
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/bin/Debug/net8.0/WebDriverPaste.pdb
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.AssemblyInfoInputs.cache
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.AssemblyInfo.cs
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.csproj.CoreCompileInputs.cache
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.sourcelink.json
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.dll
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/refint/WebDriverPaste.dll
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.pdb
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/WebDriverPaste.genruntimeconfig.cache
+/Users/aleksandrlukasuk/epam/Automated Testing Basics in .NET/Webdriver (ENG)/WebDriverPaste/WebDriverPaste/obj/Debug/net8.0/ref/WebDriverPaste.dll
